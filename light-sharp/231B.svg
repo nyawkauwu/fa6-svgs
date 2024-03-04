@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 -40 404 512">
+   <path fill="currentColor"
+d="M0 -39h16h-16h384v32v0h-16h-16v112v0v8v0l-6 5v0l-128 99v0l128 99v0l6 5v0v8v0v112v0h16h16v32v0h-16h-368v-32v0h16h16v-112v0v-8v0l6 -5v0l128 -99v0l-128 -99v0l-6 -5v0v-8v0v-112v0h-16h-16v-32v0zM64 -7v104v-104v104l128 100v0l128 -100v0v-104v0h-256v0zM95 313
+v0v0v0v0v0h1v0v0v0h1v0v0v0h1v0v0v0h1v0v0v0h1v0v0v0h1v0v0v0h1v0v0v0h1v0v0v0h1v0v0v0h1v0v0v0h1v0v0v0h1v0v0v0h1v0v0v0h1v0v0v0h1v0v0v0h1v0v0v0h1v0v0v0h1h1v0v0h1v0v0v0h1h1v0v0h1v0v0v0h1h1v0v0h1v0v0v0h1h1v0v0h1v0v0v0h1h1v0v0h1v0v0v0h1h1v0v0h1v0v0v0h1h1v0v0h1v0
+v0v0h1h1v0v0h1v0v0v0h1h1v0v0h1v0v0v0h1h1v0v0h1v0v0v0h1h1v0v0h1v0v0v0h1h1v0v0h1v0v0v0h1h1v0v0h1h1v0v0h1h1v0v0h1h1v0v0h1h2v0v0h1h1v0v0h1h1v0v0h1h2v0v0h1h1v0v0h1h1v0v0h1h2v0v0h1h1v0v0h1h1v0v0h1h2v0v0h1h1v0v0h1h1v0v0h1h2v0v0h1h1v0v0h1h1v0v0h1h2v0v0h1h1v0v0h1
+h1v0v0h1h1v0v0h1h2v0v0h1h1v0v0h1h1v0v0h1h2v0v0h1h1v0v0h1h1v0v0h1h2v0v0h1h1v0v0h1h1v0v0h1h2v0v0h1h1v0v0h1h1v0v0h1h2v0v0h1h1v0v0h1h1v0v0h1h2v0v0h1h1v0v0h1h1v0v0h1h2v0v0h1h1v0v0h1h1v0v0h1h2v0v0h1h1v0v0h1h1v0v0h1h2v0v0h1h1v0v0h1h1v0v0h1h2v0v0h1h1v0v0h1h1v0v0
+h1h2v0v0h1h1v0v0h1h2v0v0h1h1v0v0h1h1v0v0h1h2v0v0h1h1v0v0h1h1v0v0h1h1l-99 -76v0l-97 76v0zM64 345v96v-96v96h256v0v-96v0v0v0h-1h-1v0v0h-1v0v0v0h-1h-1v0v0h-1v0v0v0h-1h-1v0v0h-1v0v0v0h-1h-1v0v0h-1v0v0v0h-1h-1v0v0h-1v0v0v0h-1h-1v0v0h-1v0v0v0h-1h-1v0v0h-1h-1v0
+v0h-1v0v0v0h-1h-1v0v0h-1v0v0v0h-1h-2v0v0h-1v0v0v0h-1h-1v0v0h-1h-2v0v0h-1h-1v0v0h-1h-1v0v0h-1h-2v0v0h-1h-1v0v0h-1h-1v0v0h-1h-2v0v0h-1h-1v0v0h-1h-1v0v0h-1v0v0v0h-1v0v0v0h-1h-1v0v0h-1h-2v0v0h-1h-1v0v0h-1h-1v0v0h-1h-1v0v0h-1h-1v0v0h-1h-2v0v0h-1h-1v0v0h-1h-1
+v0v0h-1h-1v0v0h-1h-2v0v0h-1h-1v0v0h-1h-2v0v0h-1h-1v0v0h-1h-1v0v0h-1h-2v0v0h-1h-1v0v0h-1h-2v0v0h-1h-1v0v0h-1h-1v0v0h-1h-2v0v0h-1h-1v0v0h-1h-2v0v0h-1h-1v0v0h-1h-2v0v0h-1h-1v0v0h-1h-1v0v0h-1h-2v0v0h-1h-1v0v0h-1h-2v0v0h-1h-1v0v0h-1h-1v0v0h-1h-2v0v0h-1h-1v0v0
+h-1h-1v0v0h-1h-1v0v0h-1h-2v0v0h-1h-1v0v0h-1h-1v0v0h-1h-1v0v0h-1h-1v0v0h-1h-2v0v0h-1h-1v0v0h-1h-1v0v0h-1h-2v0v0h-1h-1v0v0h-1h-1v0v0h-1h-2v0v0h-1h-1v0v0v0v0h-1v0v0v0h-1h-1v0v0h-1v0v0v0h-1h-1v0v0h-1v0v0v0h-1h-2v0v0h-1v0v0v0h-1h-1v0v0h-1h-1v0v0h-1v0v0v0h-1
+h-1v0v0h-1v0v0v0h-1h-1v0v0h-1h-1v0v0h-1v0v0v0h-1h-1v0v0h-1v0v0v0h-1h-1v0v0h-1v0v0v0h-1h-1v0v0h-1v0v0v0h-1h-1v0v0h-1v0v0v0h-1v0v0v0h-1v0v0v0h-1v0v0v0h-1v0v0v0h-1v0v0v0h-1v0v0v0h-1v0v0v0h-1v0v0v0h-1v0v0v0h-1v0v0v0h-1v0v0v0h-1v0v0v0h-1v0v0v0h-1v0v0v0h-1v0v0
+v0h-1v0v0v0h-1v0v0v0h-1v0v0v0h-1v0v0v0h-1v0v0v0h-1v0v0v0h-1v0v0v0h-1v0v0v0h-1v0v0v0h-1v0v0v0h-1v0v0v0h-1v0v0v0h-1v0v0v0v0v0h-1v0v0v0h-1v0v0v0v0v0h-1v0v0v0h-1v0v0v0v0v0h-1v0v0v0h-1v0v0v0h-1v0v0v0v0v0h-1v0v0v0h-1v0v0v0v0v0h-1v0v0v0v0v0h-1v0v0v0h-1v0v0v0v0
+v0h-1v0v0v0v0v0h-1v0v0v0v0v0h-1v0v0v0v0v0h-1v0v0v0v0v0v0v0h-1v0v0v0v0v0h-1v0v0v0v0v0h-1v0v0v0v0v0v0v0h-1v0v0v0v0v0h-1v0v0v0v0v0h-1v0v0v0v0v0v0v0h-1v0v0v0v0v0v0v0z" />
+</svg>

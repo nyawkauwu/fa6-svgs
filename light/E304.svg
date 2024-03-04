@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-10 -40 596 512">
+   <path fill="currentColor"
+d="M42 103l28 22l-28 -22l28 22q12 9 22 -2q8 -12 -2 -22l-45 -38v0q-7 -6 -16 -6q-14 1 -21 10q-7 10 -3 23l41 127v0l-41 127v0q-4 13 3 23q7 9 21 10q9 0 16 -6l-10 -12v0l10 12v0l45 -38v0q11 -10 2 -22q-10 -11 -22 -2l-28 23v0l32 -99v0h70v0v80v0q1 15 16 16
+q15 -1 16 -16v-80v0h64v0v80v0q1 15 16 16q15 -1 16 -16v-80v0h64v0v80v0q1 15 16 16q15 -1 16 -16v-80v0h48v0v121v0q0 9 7 13t14 1q31 -16 54 -37q30 -25 50 -52q21 -26 31 -47q7 -15 0 -30q-10 -21 -31 -48q-20 -26 -50 -52q-23 -20 -54 -36q-8 -3 -14 1q-7 4 -7 13v121
+v0h-48v0v-80v0q-1 -15 -16 -16q-15 1 -16 16v80v0h-64v0v-80v0q-1 -15 -16 -16q-15 1 -16 16v80v0h-64v0v-80v0q-1 -15 -16 -16q-15 1 -16 16v80v0h-69v0l-32 -98h-1zM448 220v-3v-3v-105v0q12 9 23 18q27 23 45 47q19 24 28 43v0q-9 19 -28 43q-18 24 -45 47q-11 10 -23 18
+v-105v0z" />
+</svg>
